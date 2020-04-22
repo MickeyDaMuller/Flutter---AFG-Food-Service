@@ -1,0 +1,4 @@
+#Tue Apr 21 15:01:37 GST 2020
+base.0=/Users/mac/Documents/Flutter_project/AFG/afg_service/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
